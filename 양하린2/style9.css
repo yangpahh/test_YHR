@@ -1,0 +1,11 @@
+.box {
+  width: 500px;
+
+
+/* border-width: 10px;
+border-style: solid;
+border-color: aqua; */
+
+border: 10px dashed red;
+border-radius: 10px 20px 30px 40px;
+}

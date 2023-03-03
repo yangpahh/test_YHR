@@ -1,0 +1,19 @@
+/*초기값*/
+* {
+  margin: 0; padding: 0;
+}
+body {
+font-family: 'Dongle', sans-serif;
+font-family: 'Gajraj One', cursive;
+font-family: 'Gugi', cursive;
+font-family: 'Mynerve', cursive;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+img {
+  border: 0;
+}
