@@ -1,0 +1,26 @@
+/*전체*/
+#all {
+  padd
+}
+/*맨위*/
+#thumbnail {
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+/*가운데*/
+#spec {
+  margin-top: 70px;
+  margin-left: 70px;
+  margin-bottom: 100px;
+}
+#spec2 {
+  margin-top: 70px;
+  margin-left: 70px;
+  margin-bottom: 100px;
+}
+#last {
+  margin-left: 70px;
+  margin-bottom: 100px;
+}
